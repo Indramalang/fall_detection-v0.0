@@ -1,8 +1,9 @@
 # fall_detection
 
-A new Flutter project.
+Projek ini masih jauh dari kata sempurna, Saran dan kritik akan sangat membantu untuk ide pengembangan selanjutnya. Terima kasih atas waktunya
+Link saran: https://forms.gle/QUGfSGECGgW1h5Hp6
 
-## Getting Started
+##Flutter Project
 
 This project is a starting point for a Flutter application.
 
